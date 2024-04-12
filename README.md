@@ -1,13 +1,45 @@
-# co12241808480c6ae11da13ea
+<h1 align="center">
+<br>
+Book counter
+<br>
+</h1>
+<h4 align="center">A simple book counter app made with JavaScript, HTML, and CSS</h4>
 
-Quick start:
+<img width="100%" src="book-read-app.png" />
 
+## Run the App
+**Install all the dependencies:**<br>
+npm
+```sh
+npm install 
 ```
-$ npm install
-$ npm start
-````
+yarn
+```sh
+yarn install
+```
+pnpm
+```sh
+pnpm install
+```
 
-Head over to https://vitejs.dev/ to learn more about using vite
+**In the project directory run**: 
+```sh
+npm start
+```
+
+## Information about the project
+Book counter is a simple app made with JavaScript, HTML and CSS. It was created while I was pursuing Scrimba "<a href="https://scrimba.com/learn/learnjavascript">Learn Javascript</a>" course. The features include increment and save button.
+
+### Features:
+* incremant button - increment the displayed number by one
+* save button - add the displayed number to previous month count
+
+
+## This project was built with:
+* JavaScript
+* HTML
+* CSS
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
