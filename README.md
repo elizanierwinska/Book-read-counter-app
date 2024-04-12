@@ -5,7 +5,7 @@ Book counter
 </h1>
 <h4 align="center">A simple book counter app made with JavaScript, HTML, and CSS</h4>
 
-<img width="100%" src="book-read-app.png" />
+<img width="100%" src="images/book-read-app.png" />
 
 ## Run the App
 **Install all the dependencies:**<br>
