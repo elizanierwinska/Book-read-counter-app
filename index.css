@@ -5,19 +5,31 @@ body {
     font-weight: bold;
     text-align: center;
     height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 50%;
+    width: 50%;
+    background-color: bisque;
+    border-radius: 50px;
 }
 
 h1 {
-    margin-top: 10px;
     margin-bottom: 10px;
-    color: bisque;
+    color: black;
 }
 
 h2 {
     font-size: 50px;
-    margin-top: 0;
     margin-bottom: 20px;
-    color: burlywood;
+    color: black;
 }
 
 button {
@@ -33,11 +45,11 @@ button {
 }
 
 #increment-btn {
-    background: blue;
+    background: #3D5B9B;
 }
 
 #save-btn {
-    background: darkgreen;
+    background: #60713B;
 }
 
 #save-el{
